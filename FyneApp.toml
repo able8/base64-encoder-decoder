@@ -1,0 +1,8 @@
+Website = "https://github.com/able8/base64-encoder-decoder"
+
+[Details]
+  Icon = "Icon.png"
+  Name = "Base64 Encoder Decoder"
+  ID = "com.github.able8.base64-encoder-decoder"
+  Version = "0.1.0"
+  Build = 2
